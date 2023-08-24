@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-========================================================================
 
 Resistance to change is a common challenge when implementing new technologies, including artificial intelligence (AI) in self-care. In this chapter, we will discuss how to overcome resistance to change when implementing AI in self-care.
 

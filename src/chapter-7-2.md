@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-=============================================================================
 
 Managing artificial intelligence (AI) in self-care requires a commitment to transparency and accountability. In this chapter, we will discuss the importance of transparency and accountability when using AI in self-care and provide strategies for ensuring both.
 

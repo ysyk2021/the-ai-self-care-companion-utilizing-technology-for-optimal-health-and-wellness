@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in Self-Care
-==========================================
 
 Artificial intelligence (AI) is transforming the self-care industry by offering personalized support and guidance for optimal health and wellness. In this chapter, we will discuss some of the applications of AI in self-care.
 

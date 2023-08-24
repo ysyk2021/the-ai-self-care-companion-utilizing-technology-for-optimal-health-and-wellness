@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Self-Care
-===================================
 
 Managing artificial intelligence (AI) in self-care is critical for ensuring that the technology is accurate, effective, and equitable. In this chapter, we will discuss three key components of managing AI in self-care: data management, ensuring transparency and accountability, and addressing potential bias.
 

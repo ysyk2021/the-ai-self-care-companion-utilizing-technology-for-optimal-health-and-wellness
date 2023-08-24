@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI in Self-Care
-========================================
 
 Artificial intelligence (AI) is transforming the self-care industry by offering personalized support and guidance for optimal health and wellness. In this chapter, we will discuss the fundamentals of AI in self-care.
 

@@ -1,5 +1,3 @@
-How AI Works in Self-Care
-===================================================================
 
 Artificial intelligence (AI) is transforming the self-care industry by offering personalized support and guidance for optimal health and wellness. In this chapter, we will discuss how AI works in self-care.
 

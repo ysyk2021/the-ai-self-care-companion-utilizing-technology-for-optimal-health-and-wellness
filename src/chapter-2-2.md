@@ -1,5 +1,3 @@
-Types of AI in Self-Care
-==================================================================
 
 Artificial intelligence (AI) is transforming the self-care industry by offering personalized support and guidance for optimal health and wellness. In this chapter, we will discuss the types of AI used in self-care.
 

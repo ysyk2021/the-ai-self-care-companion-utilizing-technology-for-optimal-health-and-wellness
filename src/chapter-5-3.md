@@ -1,5 +1,3 @@
-Mental Health and Stress Management
-===============================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize mental health and stress management by providing personalized recommendations and support. In this chapter, we will discuss the applications of AI in mental health and stress management.
 

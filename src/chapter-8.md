@@ -1,5 +1,3 @@
-Chapter 8: Future of AI in Self-Care
-====================================
 
 As artificial intelligence (AI) continues to evolve, the future of AI in self-care is promising, with emerging trends and opportunities for improving health outcomes. However, there are also potential challenges that must be addressed to ensure that AI-powered self-care tools are developed and used in a responsible and ethical manner. In this chapter, we will discuss the future of AI in self-care.
 

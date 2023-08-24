@@ -1,5 +1,3 @@
-Historical Overview of AI in Self-Care
-================================================================================
 
 Artificial intelligence (AI) has been a part of the healthcare industry for several decades, but its use in self-care is a relatively new development. In this chapter, we will provide a historical overview of AI in self-care.
 

@@ -1,5 +1,3 @@
-Addressing Potential Bias
-==============================================================
 
 Artificial intelligence (AI) has the potential to revolutionize self-care and improve health outcomes for individuals. However, there is a risk of bias when using AI in healthcare, which can lead to disparities in care and negative health outcomes for marginalized communities. In this chapter, we will discuss how to address potential bias in AI in self-care.
 
