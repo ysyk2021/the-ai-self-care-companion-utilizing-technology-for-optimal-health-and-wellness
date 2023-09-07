@@ -8,3 +8,7 @@ We will also discuss ethical considerations and potential limitations when using
 Whether you are struggling to find time for self-care or looking to take your routine to the next level, The AI Self-Care Companion can provide valuable insights and strategies for leveraging the power of AI in your health and wellness journey. We hope this book will serve as a helpful guide for those looking to prioritize self-care and achieve optimal health and wellness.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
