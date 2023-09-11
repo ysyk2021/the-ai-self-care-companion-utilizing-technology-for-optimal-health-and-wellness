@@ -1,5 +1,4 @@
-Preparing for the Future
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we embrace the advancements of Artificial Intelligence (AI) in self-care, it is important to prepare for the future. This chapter explores the key considerations and strategies for leveraging AI technology to optimize health and wellness in the years to come.
 

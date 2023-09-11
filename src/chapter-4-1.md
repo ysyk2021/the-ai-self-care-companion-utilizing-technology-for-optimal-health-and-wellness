@@ -1,5 +1,4 @@
-Chapter 7: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations that arise when utilizing AI technology for optimal health and wellness with AI self-care companions. It is important to address these considerations to ensure that technology is developed and used responsibly, respecting individuals' rights and well-being.
 

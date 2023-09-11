@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for Implementation
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the best practices for implementing AI self-care companions effectively. These practices aim to maximize the benefits of technology while minimizing potential risks and challenges.
 

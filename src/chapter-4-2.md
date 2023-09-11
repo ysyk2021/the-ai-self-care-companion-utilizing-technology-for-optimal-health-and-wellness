@@ -1,5 +1,4 @@
-Chapter 10: Legal Considerations
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the legal considerations that organizations must address when implementing AI self-care companions for optimal health and wellness. These considerations are crucial to ensure compliance with relevant laws, protect user rights, and mitigate legal risks associated with the use of AI technology.
 

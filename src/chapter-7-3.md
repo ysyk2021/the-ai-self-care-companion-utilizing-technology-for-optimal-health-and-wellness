@@ -1,5 +1,4 @@
-Chapter 16: Addressing Potential Bias
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the importance of addressing potential bias in AI self-care companions for optimal health and wellness. Bias can arise in various stages of the AI system's development and deployment, leading to unfair or discriminatory outcomes. It is crucial to identify and mitigate bias to ensure equitable access and unbiased recommendations. This chapter will explore different aspects of addressing potential bias, including data collection, algorithmic bias, evaluation, and ongoing monitoring.
 

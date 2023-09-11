@@ -1,5 +1,4 @@
-Chapter 15: Ensuring Transparency and Accountability
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of transparency and accountability in AI self-care companions for optimal health and wellness. Transparency ensures that individuals understand how AI technology is used to support their health goals, while accountability ensures that AI systems adhere to ethical and legal standards. This chapter will discuss various aspects of transparency and accountability, including explainability, user control, bias mitigation, and regulatory compliance.
 

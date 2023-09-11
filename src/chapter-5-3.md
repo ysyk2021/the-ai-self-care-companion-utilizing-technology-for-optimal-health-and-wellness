@@ -1,5 +1,4 @@
-Chapter 11: Types of AI in Self-Care
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of AI technology that can be utilized in self-care for optimal health and wellness. These AI systems have the potential to assist individuals in monitoring their health, making decisions about their well-being, and enhancing their overall quality of life.
 
@@ -38,8 +37,7 @@ Prescriptive AI assists individuals in making informed decisions about their hea
 
 Incorporating AI technology into self-care can significantly enhance individuals' ability to monitor their health, diagnose health issues, receive therapeutic interventions, engage with health care providers, predict potential risks, and make informed decisions about their well-being. The different types of AI technology we have explored include monitoring AI, diagnostic AI, therapeutic AI, chatbot AI, predictive AI, and prescriptive AI. By harnessing these types of AI technology, individuals can receive more personalized and effective self-care and achieve optimal health and wellness.
 
-Chapter 12: Mental Health and Stress Management
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI self-care companions can support mental health and stress management. Mental health is a significant component of overall wellbeing, and AI technology can play a critical role in providing individuals with the support they need to manage their mental health effectively.
 

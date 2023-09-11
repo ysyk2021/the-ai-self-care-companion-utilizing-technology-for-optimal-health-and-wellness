@@ -1,5 +1,4 @@
-Increased Accessibility and Convenience
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Advancements in Artificial Intelligence (AI) technology have significantly enhanced accessibility and convenience in the realm of self-care. In this chapter, we will explore how AI is transforming healthcare by making services more accessible, convenient, and tailored to individual needs.
 

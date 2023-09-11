@@ -1,5 +1,4 @@
-Privacy and Security Concerns
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of AI technology in the development of self-care companions brings numerous benefits for health and wellness. However, it also raises important concerns regarding privacy and security. In this chapter, we will explore these concerns and discuss the measures that can be taken to address them effectively.
 

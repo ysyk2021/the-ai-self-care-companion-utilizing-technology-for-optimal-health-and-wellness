@@ -1,5 +1,4 @@
-Chapter 9: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key steps involved in developing an AI strategy for implementing AI self-care companions effectively. This strategy will help organizations harness the potential of AI technology to promote optimal health and wellness.
 

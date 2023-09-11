@@ -1,5 +1,4 @@
-Types of AI in Self-Care
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) encompasses various technologies and approaches that can be applied to self-care practices. In this chapter, we will discuss different types of AI commonly utilized in the development of self-care companions.
 

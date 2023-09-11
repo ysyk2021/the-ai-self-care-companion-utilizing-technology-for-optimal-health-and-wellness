@@ -1,5 +1,4 @@
-Chapter 14: Fitness and Exercise Tracking
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of AI technology in fitness and exercise tracking for optimal health and wellness. AI self-care companions can assist individuals in monitoring their physical activity, setting fitness goals, and providing personalized recommendations to improve their overall fitness levels. This chapter will discuss various aspects of fitness and exercise tracking, including data collection, analysis, goal setting, and motivation.
 
